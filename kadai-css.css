@@ -1,0 +1,22 @@
+header {
+  background-color: #ffcccc;
+}
+
+footer {
+  background-color: #ffccff;
+}
+
+#wrapper {
+  width: 1000px;
+  display: flex;
+}
+
+#main {
+  width: 700px;
+  background-color: #ccffcc;
+}
+
+#menu {
+  width: 300px;
+  background-color: #ccccff;
+}
