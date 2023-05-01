@@ -1,9 +1,11 @@
 header {
   background-color: #ffcccc;
+  width: 1000px;
 }
 
 footer {
   background-color: #ffccff;
+  width: 1000px;
 }
 
 #wrapper {
